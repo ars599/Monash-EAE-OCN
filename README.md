@@ -2,6 +2,9 @@
 Sharing OCN data (10 years chunk)
 
 # File list
+file location on Gadi:
+/g/data/p66/ars599/work_eae
+
 * make_10yr_100m_ocn_v1.sh ( use cdo select Pacific region, and also upper 100 meters)
 * xxx_v10.nc (raw files 0-100m)
 * xxx_v10.clim.nc (climatology)

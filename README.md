@@ -45,6 +45,15 @@ file location on Gadi:
 * hflsName="hfls_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-200912.nc"
 # "Surface Upward Sensible Heat Flux"
 * hfssName="hfss_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-200912.nc"
+# "Near-Surface Air Temperature"
+* tasName="tas_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
+# "Near-Surface Specific Humidity"
+* hussName="huss_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
+# "Northward Near-Surface Wind"
+* vasName="vas_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
+# "Eastward Near-Surface Wind"
+* uasName="uas_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
+
 
 # to calculate net heat flux at the surface
 *   "qnet = rss + rls - hfls - hfss"

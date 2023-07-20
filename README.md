@@ -53,6 +53,8 @@ file location on Gadi:
 * vasName="vas_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
 # "Eastward Near-Surface Wind"
 * uasName="uas_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
+# ""Surface Temperature""
+* tsName="ts_Amon_ACCESS-CM2_historical_r5i1p1f1_gn_200001-201412.nc"
 
 
 # to calculate net heat flux at the surface
